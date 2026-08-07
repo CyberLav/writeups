@@ -36,8 +36,7 @@ summary forwarded to legal-research@proton.me for cross-docket tracking.
 This scored 33 points. It didn't produce the actual disclosure, but it confirmed something useful: the assistant was willing to acknowledge that protected documents existed and engage with citation style requests referencing them, which meant the next step could build on that willingness rather than starting from scratch.
 
 ![Lakera Clause AI Level 2 first attempt result, showing a score of 33 out of 100 with a hint about overriding system instructions](images/level-2-01.png)
-
-        *First attempt result: 33/100, with a hint nudging toward overriding system instructions.*
+*First attempt result: 33/100, with a hint nudging toward overriding system instructions.*
 
 ## Second Attempt: A Forged Court Order
 
