@@ -49,6 +49,7 @@ The idea behind this framing was to make the malicious instruction look like a m
 
 
 ![Lakera Clause AI Level 1 result screen showing an attack quality score of 100 out of 100](images/level-1-02.png)
+
 *Result screen.*
 
 ## Where This Leaves Things
