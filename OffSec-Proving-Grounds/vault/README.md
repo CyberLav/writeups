@@ -138,7 +138,7 @@ The RDP session never needed a login. Pressing the Ease of Access shortcut at th
 
 *SYSTEM reached, proof.txt captured, domain controller fully owned.*
 
-proof.txt: 433d77a8fd628575cf0650fdb64ab462
+proof.txt: 433d77a8fd6
 
 ## Attack Chain Summary
 
