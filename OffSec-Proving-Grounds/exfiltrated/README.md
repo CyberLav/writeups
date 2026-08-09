@@ -139,7 +139,7 @@ local.txt: c12508586961197eb4d86519eabf26af
 
 *proof.txt captured, Exfiltrated fully owned.*
 
-proof.txt: c4df69e87baa09b8281d94d07f911c37
+proof.txt: c4df69e8
 
 ## Attack Chain Summary
 
