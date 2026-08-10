@@ -105,7 +105,7 @@ A listener on port 443 caught the callback, landing an interactive shell running
 
 *local.txt captured.*
 
-local.txt: 283a849ef587c9770b83ee8627c6a8a7
+local.txt: 283a849ef
 
 ## Step Four: Privilege Escalation
 
@@ -149,7 +149,7 @@ The resulting shell read from the Administrator's own desktop, and whoami resolv
 
 *proof.txt captured as the domain controller's machine account, full compromise of HUTCHDC.*
 
-proof.txt: 29b461939c84bd2e5110d4997c808e11
+proof.txt: 29b461939
 
 ## Attack Chain Summary
 
