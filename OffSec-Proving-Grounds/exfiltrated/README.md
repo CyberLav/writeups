@@ -133,7 +133,7 @@ Running it dropped straight into a root shell.
 
 *Root reached, local.txt captured.*
 
-local.txt: c12508586961197eb4d86519eabf26af
+local.txt: c1250858
 
 ![Final proof.txt read as root, confirming full compromise of the Exfiltrated host](images/exfiltrated-13.png)
 
