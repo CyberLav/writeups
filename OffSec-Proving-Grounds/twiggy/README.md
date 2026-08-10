@@ -106,7 +106,7 @@ ssh riba@192.168.246.62
 
 *Logged in as riba, whoami already returns root.*
 
-proof.txt: 546e3fc4d3a61dbb91b8246184c3fd1a
+proof.txt: 546e3fc4d3a61d
 
 ## Attack Chain Summary
 
