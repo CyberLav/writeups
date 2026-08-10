@@ -105,7 +105,7 @@ evil-winrm -i 192.168.246.172 -u anirudh -p SecureHM
 
 *Shell established as vault\anirudh, local.txt captured.*
 
-local.txt: ccafec6f4ea5be9f53eba7d4ee5eb33d
+local.txt: ccafec6f4e
 
 ## Step Five: Privilege Escalation
 
